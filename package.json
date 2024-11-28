@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "animate.css": "^4.1.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cors": "^2.8.5",
     "date-time": "^3.1.0",
     "dotenv": "^6.2.0",
